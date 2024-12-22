@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Boris Vignjevic",
+        "age": 45,
+        "height": 170,
+        "gander": "male"
+    },
+    {
+        "name": "Sneki Vignjevic",
+        "age": 43,
+        "height": 167,
+        "gander": "female"
+    },
+    {
+        "name": "Masa Vignjevic",
+        "age": 12,
+        "height": 150,
+        "gander": "female"
+    },
+    {
+        "name": "Vuk Vignjevic",
+        "age": 12,
+        "height": 150,
+        "gander": "male"
+    },
+    {
+        "name": "Vuk Vignjevic",
+        "age": 12,
+        "height": 150,
+        "gander": "male"
+    }
+]
